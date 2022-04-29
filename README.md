@@ -118,7 +118,7 @@ When triggered, Gets an object from pool and add Decor component to it.
 - [ ] Adding an advanced control system instead of this 
 - [ ] NPCs and Enemies
 - [ ] VFX-SFX
-- [ ] Documentaiton
+- [ ] Documentaiton&Comments
 - [ ] New mechanics
 - [ ] UI and HUD system
 - [ ] New and longer levels
@@ -126,3 +126,9 @@ When triggered, Gets an object from pool and add Decor component to it.
 
 Credit
 -
+* `./Assets/Textures/Knight/*` [Knight Sprite Sheet (Free) - Kin Ng](https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
+* `./Assets/Textures` [Free Platform Game Assets - Bayat Games](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
+ * `/Background/*`
+ * `/Enviroment/*`
+ * `/Platforms/*`
+
