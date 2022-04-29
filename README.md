@@ -16,6 +16,8 @@ Takes 3 texture and process pixels according to pixels alpha value, vertex's wor
 
 * To the material work properly, link background object's position with camera position.
 * You can assign any texture you wish.
+* Changes by both horizontal and vertical value.
+* The texture must be set X-Axis to repeat, Y-Axis to clamp.
 
 ![Background1](https://user-images.githubusercontent.com/63978053/165937020-4c0259cd-ac11-4a1c-b6be-4968b245d933.png)
 ![Background3](https://user-images.githubusercontent.com/63978053/165937024-5f436656-2693-473d-9e8f-9c4bf283dacd.png)
