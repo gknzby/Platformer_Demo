@@ -31,31 +31,44 @@ Screenshoots
  
 `Trigger2D`
 
+![Trigger2D3](https://user-images.githubusercontent.com/63978053/165941819-ed50c2bb-e206-40a9-a9a8-77a244e06444.png)
 ![Trigger2D2](https://user-images.githubusercontent.com/63978053/165941826-324ecfd1-2d5f-4623-93f4-0bbaad27bf35.png)
 ![Trigger2D1](https://user-images.githubusercontent.com/63978053/165941823-ba7a4487-b451-4956-8683-86bdbd4d0714.png)
-![Trigger2D3](https://user-images.githubusercontent.com/63978053/165941819-ed50c2bb-e206-40a9-a9a8-77a244e06444.png)
+
+`Object Pool`
+ 
+![Objectpool4](https://user-images.githubusercontent.com/63978053/165955565-38cc97cd-91a5-4f70-86ce-c163a2722a18.png)
+![Objectpool2](https://user-images.githubusercontent.com/63978053/165955570-77d067a5-b1b8-4c34-b2ba-ec243a6ea66b.png)
+![Objectpool3](https://user-images.githubusercontent.com/63978053/165955574-71aac0a7-b0fc-4a5f-891d-d707ae3ad5a2.png)
 
 
 `Trap Trigger`
 
+![TrapTrigger2](https://user-images.githubusercontent.com/63978053/165955723-61d0c102-2231-407b-88d6-37cd8b6884cd.png)
+![TrapTrigger](https://user-images.githubusercontent.com/63978053/165955717-3ecef11a-4d52-4f1b-ab73-4797505152f6.png)
+![TrapTrigger3](https://user-images.githubusercontent.com/63978053/165955712-472c9559-74a8-4d70-be3a-4b84b354728c.png)
+
+
 `Decor Trigger`
 
-### Maanagers
+![DecorTrigger](https://user-images.githubusercontent.com/63978053/165959023-1d3af7e4-c12a-4580-9a04-4e55484184af.png)
+![DecorTrigger2](https://user-images.githubusercontent.com/63978053/165959029-b4d04198-21d8-4da0-b7f1-b493c32d736f.png)
+![DecorTrigger3](https://user-images.githubusercontent.com/63978053/165959031-3bc932bc-d129-45c7-966f-74c4cd844acc.png)
 
-`GameManager`
 
-`UIManager`
+### Others
 
-`DefaultManager`
-
+`GameManager-UIManager-DefaultManager`
 
 `Player-Camera-Platform Moves`
+
 `Animation-Animator`
 
 
 :collision: I will continously update the project and refactor it. :collision:
 
 `What will`
+- [ ] Advanced data system (For each persistent and runtime data flow)
 - [ ] Procedural meshes that work with custom shaders better
 - [ ] Redesign trigger and pooling system. 
 - [ ] Adding an advanced control system instead of this 
@@ -67,3 +80,5 @@ Screenshoots
 - [ ] New and longer levels
 
 
+Credit
+-
