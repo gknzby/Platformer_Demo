@@ -34,17 +34,17 @@ Screenshoots
 `Player-Camera-Platform Moves`
 `Animation-Animator`
 
-```diff
-- I will continously update the project and refactor it. 
-```
+
+:collision: I will continously update the project and refactor it. :collision:
 
 `What will`
-* Procedural meshes that work with custom shaders better
-* Redesign trigger and pooling system. 
-* Adding an advanced control system instead of this 
-* NPCs and Enemies
-* VFX-SFX
-* Documentaiton
-* New mechanics
-* UI and HUD system
+- [ ] Procedural meshes that work with custom shaders better
+- [ ] Redesign trigger and pooling system. 
+- [ ] Adding an advanced control system instead of this 
+- [ ] NPCs and Enemies
+- [ ] VFX-SFX
+- [ ] Documentaiton
+- [ ] New mechanics
+- [ ] UI and HUD system
+- [ ] New and longer levels
  
