@@ -2,7 +2,7 @@
 
 All assets in this project made by me. (Except files in ./Assets/Textures and unity built-in features.)
 
-*It's a developer demo, not a future game demo.*
+*This is a developer demo, not a future game demo.*
 
 Screenshoots
 -
@@ -126,9 +126,12 @@ When triggered, Gets an object from pool and add Decor component to it.
 
 Credit
 -
-* `./Assets/Textures/Knight/*` [Knight Sprite Sheet (Free) - Kin Ng](https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
-* `./Assets/Textures` [Free Platform Game Assets - Bayat Games](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
- * `/Background/*`
- * `/Enviroment/*`
- * `/Platforms/*`
+[Knight Sprite Sheet (Free) - Kin Ng](https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
+> * `./Assets/Textures/Knight/*` 
+
+[Free Platform Game Assets - Bayat Games](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
+> * `./Assets/Textures` 
+>   - `/Background/*`
+>   - `/Enviroment/*`
+>   - `/Platforms/*`
 
