@@ -45,7 +45,7 @@ It's a basic shader animation. Mace's color changes continously on runtime.
  
  ### Triggers - Object Pool
   
-`Trigger2D`
+### `Trigger2D`
 
  In a plaformer game, there are a lot death, trap, checkpoint etc., Because of that I made a base class for common usage. 
  
@@ -55,7 +55,7 @@ It's a basic shader animation. Mace's color changes continously on runtime.
 ![Trigger2D2](https://user-images.githubusercontent.com/63978053/165941826-324ecfd1-2d5f-4623-93f4-0bbaad27bf35.png)
 ![Trigger2D1](https://user-images.githubusercontent.com/63978053/165941823-ba7a4487-b451-4956-8683-86bdbd4d0714.png)
 
-`Object Pool`
+### `Object Pool`
 
 Simple Object Pool manager. 
 
@@ -67,7 +67,7 @@ Simple Object Pool manager.
 ![Objectpool3](https://user-images.githubusercontent.com/63978053/165955574-71aac0a7-b0fc-4a5f-891d-d707ae3ad5a2.png)
 
 
-`Trap Trigger`
+### `Trap Trigger`
 
 Subclass of Trigger2D.
 
@@ -85,7 +85,7 @@ When triggered, Gets an object from pool and add BoobyTrap component to it.
 ![TrapTrigger3](https://user-images.githubusercontent.com/63978053/165955712-472c9559-74a8-4d70-be3a-4b84b354728c.png)
 
 
-`Decor Trigger`
+### `Decor Trigger`
 
 When triggered, Gets an object from pool and add Decor component to it.
 
@@ -110,7 +110,7 @@ When triggered, Gets an object from pool and add Decor component to it.
 
 :collision: I will continously update the project and refactor it. :collision:
 
-`What will`
+### `What will`
 - [ ] 2D Lighting
 - [ ] Advanced data system (For each persistent and runtime data flow)
 - [ ] Procedural meshes that work with custom shaders better
