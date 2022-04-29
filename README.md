@@ -1,5 +1,7 @@
 # Platformer Demo
 
+ [`You can play demo level on itch.io`](https://gknzby.itch.io/platformerdemo)
+
 All assets in this project made by me. (Except files in ./Assets/Textures and unity built-in features.)
 
 *This is a developer demo, not a future game demo.*
