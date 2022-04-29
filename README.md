@@ -126,7 +126,7 @@ When triggered, Gets an object from pool and add Decor component to it.
 - [ ] New and longer levels
 
 
-Credit
+Credits
 -
 [Knight Sprite Sheet (Free) - Kin Ng](https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
 > * `./Assets/Textures/Knight/*` 
