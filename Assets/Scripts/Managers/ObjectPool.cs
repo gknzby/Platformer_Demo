@@ -8,7 +8,8 @@ public class ObjectPool : MonoBehaviour
     public enum ObjType
     {
         None,
-        Mace
+        Mace,
+        Arrow
     }
     [System.Serializable]
     public class PoolObj
@@ -50,7 +51,6 @@ public class ObjectPool : MonoBehaviour
                     pools[i].passiveObjs.Add(gObj);
                 else
                     GameObject.Destroy(gObj);
-                
             }
         }
     }
