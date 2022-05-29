@@ -35,10 +35,11 @@ public class CameraController : MonoBehaviour
         targetVec.x = (targetTransform.position.x < minXY.x) ? minXY.x : targetTransform.position.x;
         targetVec.y = (targetTransform.position.y < minXY.y) ? minXY.y : targetTransform.position.y;
         
+        
         this.transform.position = Vector3.Lerp(this.transform.position, targetVec, FollowStrenght*Time.fixedDeltaTime);
     }
 
-
+#if UNITY_EDITOR
     #region INSPECTOR RESET
     private void Reset()
     {
@@ -47,4 +48,5 @@ public class CameraController : MonoBehaviour
         this.FollowStrenght = 2f;
     }
     #endregion
+#endif
 }
